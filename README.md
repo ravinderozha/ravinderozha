@@ -1,6 +1,6 @@
-# Ravinder Ozha, Ph.D. 🚀
+# Ravinder Ozha 🚀
 
-## AI Vibe Coder | Rapid MVP Builder | Business + Tech Executor
+## Ph.D | AI Vibe Coder | Rapid MVP Builder | Business + Tech Executor
 
 I transform ideas into working products using AI-assisted development, automation, and multi-language execution.
 
