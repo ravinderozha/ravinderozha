@@ -1,16 +1,26 @@
-## Hi there 👋
+# Ravinder Ozha 🚀
 
-<!--
-**ravinderozha/ravinderozha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Vibe Coder | Rapid MVP Builder | Business + Tech Executor
 
-Here are some ideas to get you started:
+I transform ideas into working products using AI-assisted development, automation, and multi-language execution.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Build
+- Startup MVPs
+- Automation Tools
+- Dashboards
+- AI Workflows
+- Simulations
+- SaaS Concepts
+- Internal Business Systems
+
+## 💻 Tech Flexibility
+Python • JavaScript • HTML • CSS • SQL • VBA • APIs • GAS • AI Coding Tools
+
+## 🏥 Domain Expertise
+20+ Years in US Healthcare Revenue Cycle 
+
+## 🤝 Open To
+Investors • Employers • Clients • Co-founders • Strategic Partnerships
+
+## ⚡ Philosophy
+Speed + Utility + Real Results
