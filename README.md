@@ -20,7 +20,7 @@ Python • JavaScript • HTML • CSS • SQL • VBA • APIs • GAS • AI C
 20+ Years in US Healthcare Revenue Cycle 
 
 ## 🤝 Open To
-Investors • Employers • Clients • Co-founders • Strategic Partnerships
+Entrepreneurs • Start Ups • Investors • Employers • Clients • Co-founders • Strategic Partnerships
 
 ## ⚡ Philosophy
 Speed + Utility + Real Results
